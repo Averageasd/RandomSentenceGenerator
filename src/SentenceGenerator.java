@@ -55,7 +55,7 @@ public class SentenceGenerator {
     }
 
     public void printProductions() {
-        for (Production production : productionList){
+        for (Production production : productionList) {
             System.out.print(production);
         }
     }
